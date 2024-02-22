@@ -1,0 +1,13 @@
+Configuration Commands
+
+git config --global user.name your-username - to change username (yuliiadobrova)
+git config --global user.email your-email - to change email (dobrova2009@gmail.com)
+git config user.name - to check username
+git config user.email - to check email
+
+ls -a (list all - even hidden)
+U - untracked
+
+Creating repos
+
+git init - initialize local git repo
