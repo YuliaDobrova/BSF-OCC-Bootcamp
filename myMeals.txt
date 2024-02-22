@@ -1,2 +1,3 @@
 Breakfast: oatmeal with raisins
-Lunch: spahetti with shrimps
+Lunch: spaghetti with shrimps
+Dinner: burger
