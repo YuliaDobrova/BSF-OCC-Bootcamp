@@ -1,3 +1,6 @@
+// Ron Cabatuando
+// Regel Cabrales
+
 //shopping
 
 const shirt = 17;
